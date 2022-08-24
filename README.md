@@ -10,6 +10,9 @@
   
 ## [Description](#table-of-contents)
 This project is a Employee Tracker utilizing MYSQL, node.js, npm packages, and javascript. The project takes user inputs and generates an database with the users input of team employees and their information.
+
+[Click me to see the demo video!](https://drive.google.com/file/d/14FPB_ivuH0iQH15i8z-l9VOaJWtsae6n/view)
+
 ## [Installation](#table-of-contents)
 To install, either clone the repository or download it as a zip file. Once on your computer, open the file in a code-editor, then open the code-editor's integrated terminal. Once there, you will be able to activate the project.
 ## [Usage](#table-of-contents)
